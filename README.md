@@ -1,7 +1,6 @@
 ## Hi there 👋 , I am Suhas
 
-# 💫 About Me:
-A Passionate Learner and Developer From India<br><br>🔭 I’m currently working on Full Stack (MERN) Projects<br>🤝Reach Out to me : suhasr6363@gmail.com<br><br>
+A Passionate Learner and Developer From India<br><br>🔭 I’m currently working on Full Stack (MERN) Projects<br>🌱 I’m currently learning AI & Data Science<br>💻 LeetCode: [Suhas519883](https://leetcode.com/u/Suhas519883/)<br>🤝Reach Out to me : suhasr6363@gmail.com<br><br>
 
 
 ## 🌐 Socials:
